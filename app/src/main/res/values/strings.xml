@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="no_connection_lbl">NO Connection</string>
+
+    <!--main screen-->
+    <string name="main_screen_server_name_title_text">Server</string>
+    <string name="main_screen_server_name_value_edit_text">http://demo4156383.mockable.io/test</string>
+    <string name="main_screen_test_url_button">Test URL</string>
+    <string name="main_screen_current_network_status_title">Device status:</string>
+</resources>
